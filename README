@@ -1,0 +1,2 @@
+Version 1 - Jan 8, 1869 - Gokul
+	Created the first version of Book Class with Author, Publication and Price attributes. There is also one to_s function
