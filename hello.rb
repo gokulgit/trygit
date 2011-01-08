@@ -7,7 +7,7 @@ class Book
     @name = name
   end
   def to_s
-    @name.to_s + "-" + @author.to_s + "-" + @publication.to_s + "-" + @price.to_s
+    @name.to_s + "*****" + @author.to_s + "-" + @publication.to_s + "-" + @price.to_s
   end
 end
 
