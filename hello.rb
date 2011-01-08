@@ -11,6 +11,6 @@ class Book
   end
 end
 
-hp = Book.new "Rowling", "Bloomberg", 45
+hp = Book.new "J.K. Rowling", "Bloomberg", 45
 puts hp.to_s
 
